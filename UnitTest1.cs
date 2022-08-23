@@ -20,7 +20,7 @@ namespace AuthorizationAndSendMail
 
         private const string _login = "rundog751@gmail.com";
         private const string _password = "3891Kvant";
-        private const string _address = "rundog751@gmail.com";
+        private const string _address = "qastarway@gmail.com";
         private const string _subject = "Hello! It is a test";
 
         [SetUp]
