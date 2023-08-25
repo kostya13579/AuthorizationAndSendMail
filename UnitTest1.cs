@@ -18,9 +18,9 @@ namespace AuthorizationAndSendMail
         private readonly By _sendMessageInButton = By.XPath("//*[@class='T-I J-J5-Ji aoO v7 T-I-atl L3']");
         
 
-        private const string _login = "rundog751@gmail.com";
-        private const string _password = "3891Kvant";
-        private const string _address = "qastarway@gmail.com";
+        private const string _login = ""; // box address
+        private const string _password = ""; // box password
+        private const string _address = ""; // second box address
         private const string _subject = "Hello! It is a test";
 
         [SetUp]
